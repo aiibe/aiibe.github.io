@@ -6,19 +6,22 @@
             "name": "Pomoto",
             "description": "I built Pomoto for personal use. It is built with Svelte.",
             "picture": "/pomoto.png",
-            "isPublic": true
+            "isPublic": true,
+            "live": "https://aiibe.github.io/pomoto"
         },
         {
             "name": "Remote Washing Machine",
             "description": "A working prototype web app built using Svelte to emulate a remote washing machine designed by Dimest on Dribbble.",
             "picture": "/remote-washing.png",
-            "isPublic": true
+            "isPublic": true,
+            "live": "https://aiibe.github.io/remote-washing-machine"
         },
         {
             "name": "BillBurst",
             "description": "Split your bills with friends",
             "picture": "/remote-washing.png",
-            "isPublic": false
+            "isPublic": false,
+            "live": ""
         }
     ]
 }
