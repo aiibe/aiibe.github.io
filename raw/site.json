@@ -13,6 +13,12 @@
             "description": "A working prototype web app built using Svelte to emulate a remote washing machine designed by Dimest on Dribbble.",
             "picture": "/remote-washing.png",
             "isPublic": true
+        },
+        {
+            "name": "BillBurst",
+            "description": "Split your bills with friends",
+            "picture": "/remote-washing.png",
+            "isPublic": false
         }
     ]
 }
