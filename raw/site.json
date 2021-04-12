@@ -1,0 +1,11 @@
+{
+    "title": "souksyp",
+    "baseURL": "https://souksyp.com",
+    "projects": [
+        {
+            "name": "Pomoto",
+            "description": "I built Pomoto for personal use. It is built with Svelte.",
+            "picture": ""
+        }
+    ]
+}
