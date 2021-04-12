@@ -5,7 +5,14 @@
         {
             "name": "Pomoto",
             "description": "I built Pomoto for personal use. It is built with Svelte.",
-            "picture": ""
+            "picture": "/pomoto.png",
+            "isPublic": true
+        },
+        {
+            "name": "Remote Washing Machine",
+            "description": "A working prototype web app built using Svelte to emulate a remote washing machine designed by Dimest on Dribbble.",
+            "picture": "/remote-washing.png",
+            "isPublic": true
         }
     ]
 }
