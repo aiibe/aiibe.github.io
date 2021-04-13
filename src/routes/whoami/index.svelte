@@ -11,7 +11,10 @@
 	<div class="mx-auto md:w-1/2">
 		<div class="mb-6">
 			<h2 class="text-4xl font-bold text-gray-800">
-				I love to play with web technologies to build tools like these following projects
+				I love to play with web technologies.
+			</h2>
+			<h2 class="text-2xl font-bold text-gray-600">
+				And challenge myself to build things like...
 			</h2>
 		</div>
 
@@ -19,7 +22,7 @@
 			{#each projects as { name, description, picture, isPublic }}
 				<div class="flex mb-4 shadow max-w-xl">
 					<div
-						class="h-32 md:h-auto w-32 md:w-48 flex-none bg-cover bg-center bg-no-repeat rounded-l text-center overflow-hidden"
+						class="w-48 flex-none bg-cover bg-center bg-no-repeat rounded-l text-center overflow-hidden"
 						style="background-image: url('{picture}')"
 						title={name}
 					/>
